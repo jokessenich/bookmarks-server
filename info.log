@@ -1,0 +1,13 @@
+{"message":"URL is required","level":"error"}
+{"message":"URL is required","level":"error"}
+{"message":"Card with id c43e4d74-a047-48c2-9773-4c4622d11fd4 created","level":"info"}
+{"message":"URL is required","level":"error"}
+{"message":"URL is required","level":"error"}
+{"message":"URL is required","level":"error"}
+{"message":"Bookmark with id 15 not found.","level":"error"}
+{"message":"Bookmark with id c43e4d74-a047-48c2-9773-4c4622d11fd4 not found.","level":"error"}
+{"message":"Bookmark with id 12 deleted.","level":"info"}
+{"message":"URL is required","level":"error"}
+{"message":"Card with id e7f0a46d-54fc-46d3-a9c6-62b28734f8a8 created","level":"info"}
+{"message":"Card with id b4023b86-0b05-41e2-bdeb-4641bd53b538 created","level":"info"}
+{"message":"Bookmark with id b4023b86-0b05-41e2-bdeb-4641bd53b538 deleted.","level":"info"}
